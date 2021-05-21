@@ -1,5 +1,5 @@
 {
-    "dt-id": "https://w3id.org/f7012e2b-d1f8-4e50-b97b-8a93bc97a218",
+    "dt-id": "https://w3id.org/twins/f7012e2b-d1f8-4e50-b97b-8a93bc97a218",
     "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/f7012e2b-d1f8-4e50-b97b-8a93bc97a218",
     "name": "Dummy twin for w3id.org",
     "description": "Dummy twin used to compare different DTID registries.",

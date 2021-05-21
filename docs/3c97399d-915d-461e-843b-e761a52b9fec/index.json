@@ -1,0 +1,8 @@
+{
+    "dt-id": "http://bot.fi/3lvz",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/3c97399d-915d-461e-843b-e761a52b9fec",
+    "name": "Dummy twin for bot.fi",
+    "description": "Dummy twin used to compare different DTID registries.",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/3c97399d-915d-461e-843b-e761a52b9fec/index.yaml"
+}
