@@ -1,0 +1,8 @@
+{
+    "dt-id": "https://dtid.org/c29565b9-3b5d-430c-8586-674a980b6aa5",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/c29565b9-3b5d-430c-8586-674a980b6aa5",
+    "name": "Dummy twin for dtid.org",
+    "description": "Dummy twin used to compare different DTID registries.",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/c29565b9-3b5d-430c-8586-674a980b6aa5/index.yaml"
+}
