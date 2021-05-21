@@ -1,0 +1,4 @@
+dt-id: autoassign|https://w3id.org
+hosting-iri: autoassign
+name: Dummy twin for w3id.org
+description: Dummy twin used to compare different DTID registries.
