@@ -1,6 +1,0 @@
-dt-id: https://nc.dtid.org/9c984ee3-eade-4d7e-80a6-70adf449062d
-hosting-iri: https://juusoautiosalo.github.io/twinbase-for-measurements/9c984ee3-eade-4d7e-80a6-70adf449062d
-name: Dummy twin for nc.dtid.org
-description: Dummy twin used to compare different DTID registries.
-baseurl: https://juusoautiosalo.github.io/twinbase-for-measurements
-edit: https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/9c984ee3-eade-4d7e-80a6-70adf449062d/index.yaml
