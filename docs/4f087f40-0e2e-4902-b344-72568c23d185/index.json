@@ -1,5 +1,5 @@
 {
-    "dt-id": "https://d-t.fi/4f087f40-0e2e-4902-b344-72568c23d185",
+    "dt-id": "http://d-t.fi/4f087f40-0e2e-4902-b344-72568c23d185",
     "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/4f087f40-0e2e-4902-b344-72568c23d185",
     "name": "Dummy twin for d-t.fi",
     "description": "Dummy twin used to compare different DTID registries.",
