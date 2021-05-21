@@ -57,3 +57,9 @@ for folder in os.listdir(curdir):
                     + ' Hosting IRI: ' + data['hosting-iri'])
             else:
                 print('Test successful: DT-ID redirects to hosting IRI for ' + data['name'])
+        except:
+           print('::error file=' + folder + '/index.yaml::' \
+                + 'The check for the DT-ID of ' + data['name'] + ' failed!' \
+                + ' ==> Please update the DT-ID registry.' \
+                + ' DT-ID: ' + data['dt-id'] \
+                + ' Hosting IRI: ' + data['hosting-iri'])
