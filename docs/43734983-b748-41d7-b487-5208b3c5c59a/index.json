@@ -1,0 +1,8 @@
+{
+    "dt-id": "https://urly.fi/43734983-b748-41d7-b487-5208b3c5c59a",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/43734983-b748-41d7-b487-5208b3c5c59a",
+    "name": "Dummy twin for urly.fi",
+    "description": "Dummy twin used to compare different DTID registries.",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/43734983-b748-41d7-b487-5208b3c5c59a/index.yaml"
+}
