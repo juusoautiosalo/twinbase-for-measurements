@@ -1,0 +1,4 @@
+dt-id: autoassign|https://d-t.fi
+hosting-iri: autoassign
+name: Dummy twin for d-t.fi
+description: Dummy twin used to compare different DTID registries.
