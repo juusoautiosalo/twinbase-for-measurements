@@ -4,6 +4,8 @@ owner:
 repo_url: https://github.com/juusoautiosalo/twinbase-for-measurements
 new_twin_url: https://github.com/juusoautiosalo/twinbase-for-measurements/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
+- url: https://juusoautiosalo.github.io/twinbase-for-measurements/d419ee4a-8eeb-4a08-b517-e51034f06f5b
+  name: Dummy twin for tinyurl.com
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/f7012e2b-d1f8-4e50-b97b-8a93bc97a218
   name: Dummy twin for w3id.org
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/43734983-b748-41d7-b487-5208b3c5c59a
