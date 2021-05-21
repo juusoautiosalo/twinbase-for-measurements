@@ -4,8 +4,6 @@ owner:
 repo_url: https://github.com/juusoautiosalo/twinbase-for-measurements
 new_twin_url: https://github.com/juusoautiosalo/twinbase-for-measurements/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
-- url: https://juusoautiosalo.github.io/twinbase-for-measurements/9c984ee3-eade-4d7e-80a6-70adf449062d
-  name: Dummy twin for nc.dtid.org
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/4f087f40-0e2e-4902-b344-72568c23d185
   name: Dummy twin for d-t.fi
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/d419ee4a-8eeb-4a08-b517-e51034f06f5b
@@ -20,7 +18,5 @@ twins:
   name: Dummy twin for users.aalto.fi
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/3675d65e-ac19-4168-b47e-a5db58a26ebd
   name: Dummy twin for bit.ly
-- url: https://juusoautiosalo.github.io/twinbase-for-measurements/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
-  name: Example twin
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/c29565b9-3b5d-430c-8586-674a980b6aa5
   name: Dummy twin for dtid.org
