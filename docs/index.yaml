@@ -6,3 +6,5 @@ new_twin_url: https://github.com/juusoautiosalo/twinbase-for-measurements/new/ma
 twins:
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
+- url: https://juusoautiosalo.github.io/twinbase-for-measurements/c29565b9-3b5d-430c-8586-674a980b6aa5
+  name: Dummy twin for dtid.org
