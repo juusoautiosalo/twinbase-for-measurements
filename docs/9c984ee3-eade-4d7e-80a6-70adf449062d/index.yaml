@@ -1,0 +1,4 @@
+dt-id: autoassign|https://nc.dtid.org
+hosting-iri: autoassign
+name: Dummy twin for nc.dtid.org
+description: Dummy twin used to compare different DTID registries.
