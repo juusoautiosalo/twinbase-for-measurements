@@ -8,6 +8,8 @@ twins:
   name: Dummy twin for w3id.org
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/43734983-b748-41d7-b487-5208b3c5c59a
   name: Dummy twin for urly.fi
+- url: https://juusoautiosalo.github.io/twinbase-for-measurements/3675d65e-ac19-4168-b47e-a5db58a26ebd
+  name: Dummy twin for bit.ly
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/c29565b9-3b5d-430c-8586-674a980b6aa5
