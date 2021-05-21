@@ -1,0 +1,8 @@
+{
+    "dt-id": "https://tinyurl.com/d419ee4a-8eeb-4a08-b517-e51034f06f5b",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/d419ee4a-8eeb-4a08-b517-e51034f06f5b",
+    "name": "Dummy twin for tinyurl.com",
+    "description": "Dummy twin used to compare different DTID registries.",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/d419ee4a-8eeb-4a08-b517-e51034f06f5b/index.yaml"
+}
