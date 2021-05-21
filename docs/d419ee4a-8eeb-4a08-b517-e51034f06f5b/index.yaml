@@ -1,0 +1,4 @@
+dt-id: autoassign|https://tinyurl.com
+hosting-iri: autoassign
+name: Dummy twin for tinyurl.com
+description: Dummy twin used to compare different DTID registries.
