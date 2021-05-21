@@ -1,0 +1,4 @@
+dt-id: autoassign|https://urly.fi
+hosting-iri: autoassign
+name: Dummy twin for urly.fi
+description: Dummy twin used to compare different DTID registries.
