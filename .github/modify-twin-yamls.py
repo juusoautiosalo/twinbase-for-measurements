@@ -48,11 +48,12 @@ for folder in os.listdir(curdir):
             yaml.dump(data, filew, default_flow_style=False, sort_keys=False, allow_unicode=True)
 
         # Test if DT-ID redirects to hosting IRI, give actions error if not
-        if not (dtweb.client.fetch_host_url(data['dt-id']) == data['hosting-iri'] + '/'):
-            print('::error file=' + folder + '/index.yaml::' \
-                + 'DT-ID of ' + data['name'] + ' does not redirect to its hosting IRI!' \
-                + ' ==> Please update the DT-ID registry.' \
-                + ' DT-ID: ' + data['dt-id'] \
-                + ' Hosting IRI: ' + data['hosting-iri'])
-        else:
-            print('Test successful: DT-ID redirects to hosting IRI for ' + data['name'])
+        try:
+            if not (dtweb.client.fetch_host_url(data['dt-id']) == data['hosting-iri'] + '/'):
+                print('::error file=' + folder + '/index.yaml::' \
+                    + 'DT-ID of ' + data['name'] + ' does not redirect to its hosting IRI!' \
+                    + ' ==> Please update the DT-ID registry.' \
+                    + ' DT-ID: ' + data['dt-id'] \
+                    + ' Hosting IRI: ' + data['hosting-iri'])
+            else:
+                print('Test successful: DT-ID redirects to hosting IRI for ' + data['name'])
