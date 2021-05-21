@@ -1,0 +1,4 @@
+dt-id: autoassign|https://users.aalto.fi
+hosting-iri: autoassign
+name: Dummy twin for users.aalto.fi
+description: Dummy twin used to compare different DTID registries.
