@@ -1,0 +1,4 @@
+dt-id: autoassign|https://bit.ly
+hosting-iri: autoassign
+name: Dummy twin for bit.ly
+description: Dummy twin used to compare different DTID registries.
