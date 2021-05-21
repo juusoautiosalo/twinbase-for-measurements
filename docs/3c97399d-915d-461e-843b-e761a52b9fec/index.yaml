@@ -1,0 +1,4 @@
+dt-id: autoassign|https://bot.fi
+hosting-iri: autoassign
+name: Dummy twin for bot.fi
+description: Dummy twin used to compare different DTID registries.
