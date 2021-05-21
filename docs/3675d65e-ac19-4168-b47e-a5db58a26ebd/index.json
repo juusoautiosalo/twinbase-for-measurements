@@ -1,0 +1,8 @@
+{
+    "dt-id": "https://bit.ly/3675d65e-ac19-4168-b47e-a5db58a26ebd",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/3675d65e-ac19-4168-b47e-a5db58a26ebd",
+    "name": "Dummy twin for bit.ly",
+    "description": "Dummy twin used to compare different DTID registries.",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/3675d65e-ac19-4168-b47e-a5db58a26ebd/index.yaml"
+}
