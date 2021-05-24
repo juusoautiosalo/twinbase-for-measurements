@@ -4,12 +4,18 @@ owner:
 repo_url: https://github.com/juusoautiosalo/twinbase-for-measurements
 new_twin_url: https://github.com/juusoautiosalo/twinbase-for-measurements/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
+- url: https://juusoautiosalo.github.io/twinbase-for-measurements/f0f6cfe8-019f-409a-919b-3302053a01c4
+  name: Realistic Incredible Octopus Of Cookies
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/4f087f40-0e2e-4902-b344-72568c23d185
   name: Dummy twin for d-t.fi
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/d419ee4a-8eeb-4a08-b517-e51034f06f5b
   name: Dummy twin for tinyurl.com
+- url: https://juusoautiosalo.github.io/twinbase-for-measurements/c534df86-f9a7-4467-a8b1-0ffbee32e8c8
+  name: Network Origin
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/f7012e2b-d1f8-4e50-b97b-8a93bc97a218
   name: Dummy twin for w3id.org
+- url: https://juusoautiosalo.github.io/twinbase-for-measurements/87718e0e-7039-4820-ae9c-f1ceefff0b02
+  name: Outstanding Prophetic Dove Of Refinement
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/43734983-b748-41d7-b487-5208b3c5c59a
   name: Dummy twin for urly.fi
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/3c97399d-915d-461e-843b-e761a52b9fec
@@ -18,5 +24,11 @@ twins:
   name: Dummy twin for users.aalto.fi
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/3675d65e-ac19-4168-b47e-a5db58a26ebd
   name: Dummy twin for bit.ly
+- url: https://juusoautiosalo.github.io/twinbase-for-measurements/a3e71c73-6709-429f-bd16-7af98a9a757a
+  name: Stirring Delicate Marten Of Innovation
+- url: https://juusoautiosalo.github.io/twinbase-for-measurements/5bf379c5-951e-4a97-8368-4cd1e0100b2c
+  name: Ludicrous Icy Donkey Of Fortitude
+- url: https://juusoautiosalo.github.io/twinbase-for-measurements/0ac95c59-1f57-47b2-a365-3fb4c537c05f
+  name: Cautious Turquoise Salmon Of Coffee
 - url: https://juusoautiosalo.github.io/twinbase-for-measurements/c29565b9-3b5d-430c-8586-674a980b6aa5
   name: Dummy twin for dtid.org
