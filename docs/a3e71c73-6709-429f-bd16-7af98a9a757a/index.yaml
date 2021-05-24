@@ -1,0 +1,9 @@
+dt-id: https://dtid.org/a3e71c73-6709-429f-bd16-7af98a9a757a
+hosting-iri: autoassign
+name: Stirring Delicate Marten Of Innovation
+description: Sed etincidunt labore magnam quisquam adipisci.
+relations:
+- dt-id: https://dtid.org/c534df86-f9a7-4467-a8b1-0ffbee32e8c8
+  relationType: parent
+- dt-id: https://dtid.org/f0f6cfe8-019f-409a-919b-3302053a01c4
+  relationType: child

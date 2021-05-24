@@ -1,0 +1,9 @@
+dt-id: https://dtid.org/5bf379c5-951e-4a97-8368-4cd1e0100b2c
+hosting-iri: autoassign
+name: Ludicrous Icy Donkey Of Fortitude
+description: Adipisci modi magnam tempora dolore voluptatem magnam.
+relations:
+- dt-id: https://dtid.org/87718e0e-7039-4820-ae9c-f1ceefff0b02
+  relationType: parent
+- dt-id: https://dtid.org/0ac95c59-1f57-47b2-a365-3fb4c537c05f
+  relationType: child
