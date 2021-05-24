@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/0ac95c59-1f57-47b2-a365-3fb4c537c05f",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/0ac95c59-1f57-47b2-a365-3fb4c537c05f",
+    "name": "Cautious Turquoise Salmon Of Coffee",
+    "description": "Eius numquam non est magnam.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/5bf379c5-951e-4a97-8368-4cd1e0100b2c",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/0ac95c59-1f57-47b2-a365-3fb4c537c05f/index.yaml"
+}
