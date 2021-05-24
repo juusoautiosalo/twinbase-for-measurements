@@ -1,7 +1,9 @@
 dt-id: https://dtid.org/c534df86-f9a7-4467-a8b1-0ffbee32e8c8
-hosting-iri: autoassign
+hosting-iri: https://juusoautiosalo.github.io/twinbase-for-measurements/c534df86-f9a7-4467-a8b1-0ffbee32e8c8
 name: Network Origin
 description: Ipsum quaerat sed eius quaerat sit voluptatem ut.
 relations:
 - dt-id: https://dtid.org/a3e71c73-6709-429f-bd16-7af98a9a757a
   relationType: child
+baseurl: https://juusoautiosalo.github.io/twinbase-for-measurements
+edit: https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/c534df86-f9a7-4467-a8b1-0ffbee32e8c8/index.yaml
