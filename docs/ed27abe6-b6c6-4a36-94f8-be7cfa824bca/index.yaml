@@ -1,5 +1,5 @@
 dt-id: https://d-t.fi/ed27abe6-b6c6-4a36-94f8-be7cfa824bca
-hosting-iri: autoassign
+hosting-iri: https://juusoautiosalo.github.io/twinbase-for-measurements/ed27abe6-b6c6-4a36-94f8-be7cfa824bca
 name: Warping Tentacled Albatross Of Pleasure
 description: Dolor sed consectetur labore tempora quiquia velit.
 relations:
@@ -7,3 +7,5 @@ relations:
   relationType: parent
 - dt-id: https://d-t.fi/cf5aec59-067d-445b-b8bb-2fad0c390981
   relationType: child
+baseurl: https://juusoautiosalo.github.io/twinbase-for-measurements
+edit: https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/ed27abe6-b6c6-4a36-94f8-be7cfa824bca/index.yaml

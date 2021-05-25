@@ -1,7 +1,9 @@
 dt-id: https://d-t.fi/6bd8a492-c53a-47e4-9869-44b6cfecb406
-hosting-iri: autoassign
+hosting-iri: https://juusoautiosalo.github.io/twinbase-for-measurements/6bd8a492-c53a-47e4-9869-44b6cfecb406
 name: Network Origin
 description: Porro dolor adipisci consectetur quiquia dolorem ipsum.
 relations:
 - dt-id: https://d-t.fi/03bb7adf-3d61-4411-9aa8-a5259c2f110f
   relationType: child
+baseurl: https://juusoautiosalo.github.io/twinbase-for-measurements
+edit: https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/6bd8a492-c53a-47e4-9869-44b6cfecb406/index.yaml
