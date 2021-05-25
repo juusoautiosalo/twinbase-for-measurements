@@ -1,0 +1,9 @@
+dt-id: https://d-t.fi/de78ecdc-6142-498d-8516-9dfd5b2094b1
+hosting-iri: autoassign
+name: Miniature Rapid Woodlouse Of Control
+description: Etincidunt sit sit voluptatem.
+relations:
+- dt-id: https://d-t.fi/03bb7adf-3d61-4411-9aa8-a5259c2f110f
+  relationType: parent
+- dt-id: https://d-t.fi/fb586df1-ab31-4be3-9333-89db83d6ddf4
+  relationType: child
