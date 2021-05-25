@@ -1,0 +1,18 @@
+{
+    "dt-id": "https://d-t.fi/fb586df1-ab31-4be3-9333-89db83d6ddf4",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/fb586df1-ab31-4be3-9333-89db83d6ddf4",
+    "name": "Feathered Thick Dog Of Force",
+    "description": "Dolore aliquam voluptatem aliquam non consectetur porro.",
+    "relations": [
+        {
+            "dt-id": "https://d-t.fi/de78ecdc-6142-498d-8516-9dfd5b2094b1",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://d-t.fi/ed27abe6-b6c6-4a36-94f8-be7cfa824bca",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/fb586df1-ab31-4be3-9333-89db83d6ddf4/index.yaml"
+}
