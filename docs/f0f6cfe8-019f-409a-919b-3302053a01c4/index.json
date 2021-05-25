@@ -5,11 +5,11 @@
     "description": "Quisquam dolorem est labore modi.",
     "relations": [
         {
-            "dt-id": "https://dtid.org/a3e71c73-6709-429f-bd16-7af98a9a757a",
+            "dt-id": "http://dtid.org/a3e71c73-6709-429f-bd16-7af98a9a757a",
             "relationType": "parent"
         },
         {
-            "dt-id": "https://dtid.org/87718e0e-7039-4820-ae9c-f1ceefff0b02",
+            "dt-id": "http://dtid.org/87718e0e-7039-4820-ae9c-f1ceefff0b02",
             "relationType": "child"
         }
     ],

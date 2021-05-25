@@ -5,7 +5,7 @@
     "description": "Amet aliquam dolore voluptatem.",
     "relations": [
         {
-            "dt-id": "https://d-t.fi/ed27abe6-b6c6-4a36-94f8-be7cfa824bca",
+            "dt-id": "http://d-t.fi/ed27abe6-b6c6-4a36-94f8-be7cfa824bca",
             "relationType": "parent"
         }
     ],

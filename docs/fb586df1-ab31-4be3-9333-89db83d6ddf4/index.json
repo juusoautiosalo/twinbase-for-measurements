@@ -5,11 +5,11 @@
     "description": "Dolore aliquam voluptatem aliquam non consectetur porro.",
     "relations": [
         {
-            "dt-id": "https://d-t.fi/de78ecdc-6142-498d-8516-9dfd5b2094b1",
+            "dt-id": "http://d-t.fi/de78ecdc-6142-498d-8516-9dfd5b2094b1",
             "relationType": "parent"
         },
         {
-            "dt-id": "https://d-t.fi/ed27abe6-b6c6-4a36-94f8-be7cfa824bca",
+            "dt-id": "http://d-t.fi/ed27abe6-b6c6-4a36-94f8-be7cfa824bca",
             "relationType": "child"
         }
     ],

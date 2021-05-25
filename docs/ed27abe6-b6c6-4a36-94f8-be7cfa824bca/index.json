@@ -5,11 +5,11 @@
     "description": "Dolor sed consectetur labore tempora quiquia velit.",
     "relations": [
         {
-            "dt-id": "https://d-t.fi/fb586df1-ab31-4be3-9333-89db83d6ddf4",
+            "dt-id": "http://d-t.fi/fb586df1-ab31-4be3-9333-89db83d6ddf4",
             "relationType": "parent"
         },
         {
-            "dt-id": "https://d-t.fi/cf5aec59-067d-445b-b8bb-2fad0c390981",
+            "dt-id": "http://d-t.fi/cf5aec59-067d-445b-b8bb-2fad0c390981",
             "relationType": "child"
         }
     ],

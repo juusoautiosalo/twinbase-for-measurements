@@ -5,11 +5,11 @@
     "description": "Etincidunt sit sit voluptatem.",
     "relations": [
         {
-            "dt-id": "https://d-t.fi/03bb7adf-3d61-4411-9aa8-a5259c2f110f",
+            "dt-id": "http://d-t.fi/03bb7adf-3d61-4411-9aa8-a5259c2f110f",
             "relationType": "parent"
         },
         {
-            "dt-id": "https://d-t.fi/fb586df1-ab31-4be3-9333-89db83d6ddf4",
+            "dt-id": "http://d-t.fi/fb586df1-ab31-4be3-9333-89db83d6ddf4",
             "relationType": "child"
         }
     ],
