@@ -1,0 +1,9 @@
+dt-id: https://w3id.org/twins/97dd6ce5-143c-4454-8423-82d1b93490ec
+hosting-iri: autoassign
+name: Gainful Translucent Groundhog From Arcadia
+description: Adipisci neque dolore eius quisquam ipsum porro.
+relations:
+- dt-id: https://w3id.org/twins/c0b88d23-0616-49fe-8587-59163b9bbc0f
+  relationType: parent
+- dt-id: https://w3id.org/twins/a2bf8f8f-e625-4b5f-9533-2659f46e9732
+  relationType: child

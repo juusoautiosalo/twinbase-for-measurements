@@ -1,0 +1,7 @@
+dt-id: https://w3id.org/twins/01a88415-d484-479a-a232-1e6443728e51
+hosting-iri: autoassign
+name: Powerful Quartz Guan Of Genius
+description: Neque ipsum sed consectetur dolor quisquam.
+relations:
+- dt-id: https://w3id.org/twins/2c649807-ac61-4b6c-8d20-e820cd48323d
+  relationType: parent

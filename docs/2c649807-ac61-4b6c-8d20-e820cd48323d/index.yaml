@@ -1,0 +1,9 @@
+dt-id: https://w3id.org/twins/2c649807-ac61-4b6c-8d20-e820cd48323d
+hosting-iri: autoassign
+name: Smoky Nickel Pronghorn Of Endeavor
+description: Adipisci aliquam modi amet modi numquam sed est.
+relations:
+- dt-id: https://w3id.org/twins/a2bf8f8f-e625-4b5f-9533-2659f46e9732
+  relationType: parent
+- dt-id: https://w3id.org/twins/01a88415-d484-479a-a232-1e6443728e51
+  relationType: child
