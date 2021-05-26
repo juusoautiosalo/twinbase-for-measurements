@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://w3id.org/twins/775b1b0d-1083-44f2-8c77-ee5782ee5842",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/775b1b0d-1083-44f2-8c77-ee5782ee5842",
+    "name": "Network Origin w3id.org",
+    "description": "Voluptatem tempora porro consectetur.",
+    "relations": [
+        {
+            "dt-id": "https://w3id.org/twins/c0b88d23-0616-49fe-8587-59163b9bbc0f",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/775b1b0d-1083-44f2-8c77-ee5782ee5842/index.yaml"
+}

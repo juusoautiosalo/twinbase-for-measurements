@@ -1,0 +1,18 @@
+{
+    "dt-id": "https://w3id.org/twins/c0b88d23-0616-49fe-8587-59163b9bbc0f",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-measurements/c0b88d23-0616-49fe-8587-59163b9bbc0f",
+    "name": "Cordial Markhor Of Unearthly Current",
+    "description": "Voluptatem non ipsum est dolor voluptatem.",
+    "relations": [
+        {
+            "dt-id": "https://w3id.org/twins/775b1b0d-1083-44f2-8c77-ee5782ee5842",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://w3id.org/twins/97dd6ce5-143c-4454-8423-82d1b93490ec",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/c0b88d23-0616-49fe-8587-59163b9bbc0f/index.yaml"
+}
