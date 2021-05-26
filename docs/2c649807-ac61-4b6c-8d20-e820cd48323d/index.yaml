@@ -1,5 +1,5 @@
 dt-id: https://w3id.org/twins/2c649807-ac61-4b6c-8d20-e820cd48323d
-hosting-iri: autoassign
+hosting-iri: https://juusoautiosalo.github.io/twinbase-for-measurements/2c649807-ac61-4b6c-8d20-e820cd48323d
 name: Smoky Nickel Pronghorn Of Endeavor
 description: Adipisci aliquam modi amet modi numquam sed est.
 relations:
@@ -7,3 +7,5 @@ relations:
   relationType: parent
 - dt-id: https://w3id.org/twins/01a88415-d484-479a-a232-1e6443728e51
   relationType: child
+baseurl: https://juusoautiosalo.github.io/twinbase-for-measurements
+edit: https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/2c649807-ac61-4b6c-8d20-e820cd48323d/index.yaml

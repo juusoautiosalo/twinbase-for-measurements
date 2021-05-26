@@ -1,7 +1,9 @@
 dt-id: https://w3id.org/twins/01a88415-d484-479a-a232-1e6443728e51
-hosting-iri: autoassign
+hosting-iri: https://juusoautiosalo.github.io/twinbase-for-measurements/01a88415-d484-479a-a232-1e6443728e51
 name: Powerful Quartz Guan Of Genius
 description: Neque ipsum sed consectetur dolor quisquam.
 relations:
 - dt-id: https://w3id.org/twins/2c649807-ac61-4b6c-8d20-e820cd48323d
   relationType: parent
+baseurl: https://juusoautiosalo.github.io/twinbase-for-measurements
+edit: https://github.com/juusoautiosalo/twinbase-for-measurements/edit/main/docs/01a88415-d484-479a-a232-1e6443728e51/index.yaml
